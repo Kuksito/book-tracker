@@ -46,13 +46,24 @@
     font-size: 1rem;
     font-weight: bold;
     font-family: "Space Grotesk", system-ui, serif;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
 }
 
 .log-in-btn{
     color: #284c5e;
 }
 
+.log-in-btn:hover{
+    background-color: #0078afc4;
+    color: #fff;
+}
+
 .create-acc-btn{
     background-color: #6dd1ff;
     color: #fff;
+}
+
+.create-acc-btn:hover{
+    background-color: #0078afc4;
 }
