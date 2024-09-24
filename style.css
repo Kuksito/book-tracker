@@ -45,6 +45,7 @@
     border: 2px solid #6dd1ff;
     font-size: 1rem;
     font-weight: bold;
+    font-family: "Space Grotesk", system-ui, serif;
 }
 
 .log-in-btn{
